@@ -2,5 +2,5 @@
 Chrome Extension
 
 ## Screenshot
-![Screenshot](http://gyazo.com/fa01ff2f80056c2b891524506ea317bd.png)
+![Screenshot](http://gyazo.com/d68f15094703f5d06445667861281990.png)
 
